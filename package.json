@@ -1,0 +1,24 @@
+{
+  "name": "summative-lab-single-page-application-wordly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddie-Njeru1/SUMMATIVE-LAB-SINGLE-PAGE-APPLICATION-WORDLY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Eddie-Njeru1/SUMMATIVE-LAB-SINGLE-PAGE-APPLICATION-WORDLY/issues"
+  },
+  "homepage": "https://github.com/Eddie-Njeru1/SUMMATIVE-LAB-SINGLE-PAGE-APPLICATION-WORDLY#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
